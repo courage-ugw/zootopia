@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files (e.g., PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Environment-specific files
+.env
+*.env
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Local configuration files
+*.cfg
+
+# User-specific files
+*.swp
+*.swo
+
+# macOS folder attributes
+.DS_Store
